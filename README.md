@@ -1,5 +1,5 @@
 
-
+![](https://komarev.com/ghpvc/?username=codeinpython-org&color=blue)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krona+One&size=21&color=1D6FF7&background=1E73FF00&vCenter=true&multiline=true&width=350&lines=So%2C+who's+this+guy%3F!)](https://git.io/typing-svg)
 <br />
@@ -50,6 +50,6 @@ We are Software Developer with strong affinity for Python, Javascript and its ec
 
 | **Contributions** |  |
 | --- | --- |
-| ![Eri's github stats](https://github-readme-stats.vercel.app/api?username=50-Course&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Simplified view](https://github-readme-streak-stats.herokuapp.com/?user=50-Course) |
+| ![CODEINPYTHON-Org's github stats](https://github-readme-stats.vercel.app/api?username=codeinpython-org&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Simplified view](https://github-readme-streak-stats.herokuapp.com/?user=codeinpython-org)|
 
 <br />
